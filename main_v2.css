@@ -1,0 +1,39 @@
+.page.title {
+	font-size: 32px;
+	text-align: center;
+	font-family: Monospace;
+	padding: 30px;
+}
+
+.page.title.first{
+	background-color: #ccddff;
+}
+
+.page.title.second{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+html{
+	background-color: #e6ffcc;
+}
+
+ul li{
+	display: inline;
+	margin: 40px
+}
+
+h3 .working.with{
+	text-align: center;
+	font-size: 26px;
+	background-color: #ccddff;
+}
+
+ul.goals.list{
+	text-align: center;
+}
+
+ul>li{
+	background-color: #00b3b3;
+	border: 5px solid #66ffff;
+	color: #000000;
+}

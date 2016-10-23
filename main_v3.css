@@ -1,0 +1,68 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: left;
+	width: 100%;
+}
+
+a {
+	color: "white";
+}
+
+h3.working.with{
+	text-align: left;
+}
+
+body {
+	background-image: url("E:\Projects\Personal_website\resources\javascript.jpg");
+	background-size: cover;
+}
+
+h1 {
+  color: rgb(46,105,163);
+	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+}
+
+h2 {
+	font-size: 56px;
+}
+
+ul{
+	display: inline-block;
+}
+
+
+.hero {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color: #ffffff;
+}
+
+
+p {
+	font-size: 2rem
+}
+
+
+#footer{
+  font-size: 0.75rem;
+}
+
+#green {
+	width: 15px;
+	height: 15px;
+	border-radius: 100%;
+	background-color: #9DE0AD;
+	color: #008800;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+	border: 4px solid #008800;
+	box-shadow: 5px 5px 5px #888;
+	display: inline-block;
+	margin-right: 20px;
+}
