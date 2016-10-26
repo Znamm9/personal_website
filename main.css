@@ -66,6 +66,8 @@ div#arrow{
 	float: right;
 	position: relative;
 	top: 2px;
+	text-align: center;
+	font-size: 15px;
 }
 #left_pane{
 	position: relative;
